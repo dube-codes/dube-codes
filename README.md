@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adarsh Dubey 👋
 
-<!--
-**dube-codes/dube-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** based in Mumbai, India
 
-Here are some ideas to get you started:
+I have 3+ years of experience building REST APIs and database-driven applications with PHP and CodeIgniter, plus hands-on work with Node.js and NestJS. I'm now learning Python and FastAPI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- **Languages:** PHP, JavaScript, SQL, Python (learning)
+- **Backend:** CodeIgniter, Node.js, NestJS
+- **Learning:** FastAPI, SQLAlchemy, PostgreSQL
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, Linux, Postman
+- **Focus areas:** REST APIs, CRUD, authentication, API integration
+
+## 🚀 Projects
+
+- [Bookly](https://github.com/dube-codes/bookly): FastAPI practice project
+
+Most of my professional work is on company projects, so that code isn't public.
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/adarshdube)
